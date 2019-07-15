@@ -4,7 +4,11 @@ Welcome to the .NET Foundation Newsletter Repository. This repo is used to manag
 
 ## Submission
 
-Foundation/Project news should be submitted as a pull request to the existing newsletter markdown file. Please append your news to the section labeled `.NET Foundation Project Updates`.
+Foundation/Project news should be submitted as a pull request to the existing newsletter markdown file. The file will be named for the month in a folder with the name of the year. For example, the July 2019 newsletter is in a file named [`2019/07.md`](blob/master/2019/07.md).
+
+_Pro tip: You can submit your news through the website by clicking the edit icon when viewing the newsletter markdown file. Just make your edits and when you commit, GitHub will walk you through creating a pull request._
+
+Please append your news to the section labeled `.NET Foundation Project Updates`.
 
 It's a simple format.
 
@@ -29,3 +33,11 @@ Sometimes it's nice to end with a:
 * [list](url-to-resource)
 * [of linked resources](url-to-resource)
 ```
+
+## Who may submit news?
+
+While we expect project maintainers to submit interesting news about their projects, we welcome anyone in the .NET community to submit news related to the Foundation or Foundation Projects.
+
+## Scheduling
+
+We send out the newsletter the last week of each month. We try and set a deadline for project news one week before the end of the month.
