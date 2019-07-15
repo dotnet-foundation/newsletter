@@ -41,3 +41,5 @@ While we expect project maintainers to submit interesting news about their proje
 ## Scheduling
 
 We send out the newsletter the last week of each month. We try and set a deadline for project news one week before the end of the month.
+
+The contents of the newsletter are also published to the [.NET Foundation Blog](https://dotnetfoundation.org/blog).
