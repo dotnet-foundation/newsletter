@@ -10,11 +10,13 @@ We have a video that walks through how to submit news items for the newsletter.
 
 Or you can continue to read this document like our ancestors did.
 
-News should be submitted as a pull request to the existing newsletter markdown file. The file will be named for the month in a folder with the name of the year. For example, the July 2019 newsletter is in a file named [`2019/07.md`](blob/master/2019/07.md).
+Every month we will create an issue for the upcoming newsletter as well as a markdown file to contain the news. News should be submitted as a pull request to the existing newsletter markdown file. The file will be named for the month in a folder with the name of the year. For example, the July 2019 newsletter is in a file named [`2019/07.md`](blob/master/2019/07.md).
+
+<img width="796" alt="Screen Shot 2019-07-18 at 11 34 08 AM" src="https://user-images.githubusercontent.com/19977/61482800-503a8100-a950-11e9-9013-67dddc0cd832.png">
 
 _Pro tip: You can submit your news through the website by clicking the edit icon when viewing the newsletter markdown file. Just make your edits and when you commit, GitHub will walk you through creating a pull request._
 
-Please append your news to the appropriate section. For Foundation Project News, please append your news to the section labeled `.NET Foundation Project Updates`.
+Please append your news to the appropriate section. For Foundation Project News, please append your news to the section labeled `.NET Foundation Project Updates`. Also, please add a line in your PR message that says `Related: #123` where `123` is the issue number of newsletter issue (_Pro Tip: If you type `#` and start typing "news" GitHub will list issues related to the newsletter_). That gives us a nice digest for submissions.
 
 It's a simple format.
 
