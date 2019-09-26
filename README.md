@@ -10,7 +10,7 @@ We have a video that walks through how to submit news items for the newsletter.
 
 Or you can continue to read this document like our ancestors did.
 
-Every month we will create an issue for the upcoming newsletter as well as a markdown file to contain the news. News should be submitted as a pull request to the existing newsletter markdown file. The file will be named for the month in a folder with the name of the year. For example, the July 2019 newsletter is in a file named [`2019/07.md`](blob/master/2019/07.md).
+Every month we will create an issue for the upcoming newsletter as well as a markdown file to contain the news. News should be submitted as a pull request to the existing newsletter markdown file. The file will be named for the month in a folder with the name of the year. For example, the July 2019 newsletter is in a file named [`2019/07.md`](2019/07.md).
 
 <img width="796" alt="Screen Shot 2019-07-18 at 11 34 08 AM" src="https://user-images.githubusercontent.com/19977/61482800-503a8100-a950-11e9-9013-67dddc0cd832.png">
 
