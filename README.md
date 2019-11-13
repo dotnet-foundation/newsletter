@@ -1,6 +1,6 @@
 # Newsletter
 
-Welcome to the .NET Foundation Newsletter Repository. This repo is used to manage and create newsletters sent to the members of the foundation and the general interested public.
+Welcome to the .NET Foundation Newsletter Repository. This repo is used to manage and create newsletters sent to the members of the foundation and the general interested public. You can [sign up for the .NET Foundation newsletter here.](http://eepurl.com/dhL_qb)
 
 ## Submission
 
