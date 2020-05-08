@@ -4,13 +4,7 @@ Welcome to the .NET Foundation Newsletter Repository. This repo is used to manag
 
 ## Submission
 
-We have a video that walks through how to submit news items for the newsletter.
-
-[![Youtube walkthrough of submitting news for the newslitter](https://user-images.githubusercontent.com/19977/61264038-de8be880-a73f-11e9-9980-843a2d67a27d.png)](https://www.youtube.com/watch?v=QkrpumELLko&feature=youtu.be)
-
-Or you can continue to read this document like our ancestors did.
-
-Every month we will create an issue for the upcoming newsletter as well as a markdown file to contain the news. News should be submitted as a pull request to the existing newsletter markdown file. The file will be named for the month in a folder with the name of the year. For example, the July 2019 newsletter is in a file named [`2019/07.md`](2019/07.md).
+Every month we will create an issue for the upcoming newsletter as well as a markdown file to contain the news. News should be submitted as a pull request to [the current newsletter markdown file](https://github.com/dotnet-foundation/website/blob/master/input/blog/posts/_current-newsletter-draft.md).
 
 <img width="796" alt="Screen Shot 2019-07-18 at 11 34 08 AM" src="https://user-images.githubusercontent.com/19977/61482800-503a8100-a950-11e9-9013-67dddc0cd832.png">
 
@@ -20,7 +14,7 @@ Please append your news to the appropriate section. For Foundation Project News,
 
 It's a simple format.
 
-Start with an H3 heading that is linked to your news item. So if you're writing about a new release, then link the heading to the release. If you're writing about a new project, link to the repository.
+Start with an H3 heading (aka `###`) that is linked to your news item. So if you're writing about a new release, then link the heading to the release. If you're writing about a new project, link to the repository.
 
 Follow the heading with your project news. Feel free to include images and links.
 
